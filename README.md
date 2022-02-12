@@ -10,3 +10,6 @@ Machine Learning Resources
 # [Golang]
  - [https://golangrepo.com/repo/galeone-tfgo-go-machine-learning]
  
+# [Robot JS]
+ - [https://github.com/octalmage/robotjs]
+ -
